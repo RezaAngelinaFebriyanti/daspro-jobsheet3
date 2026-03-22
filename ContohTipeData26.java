@@ -1,6 +1,5 @@
 public class ContohTipeData26 {
     public static void main (String [] args){
-
         char golonganDarah = 'A';
         byte jarak = (byte) 130;
         short jumlahPendudukDalamSatuDusun = 1025;
